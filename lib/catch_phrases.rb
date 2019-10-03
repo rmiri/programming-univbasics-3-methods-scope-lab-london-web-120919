@@ -15,6 +15,6 @@ def link
   puts status
 end
 
-def any_phrase
-  puts phrase
+def any_phrase (argument)
+  puts argument
 end
